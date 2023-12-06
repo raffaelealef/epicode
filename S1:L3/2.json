@@ -1,0 +1,48 @@
+{
+  "CD":[
+    
+      { 
+        "titolo": "FOREVER",
+        "casa": "Universal Music",
+        "artista": "Rosa Chemical",
+        "canzoni": [
+            {
+              "numero": "1",
+              "nome": "TU MI FAI",
+              "durata":"2:48",
+              "featuring": null
+            },
+            {
+              "numero": "2",
+              "nome": "POLKA",
+              "durata":"2:51",
+              "featuring":"Thelonious B."
+            } 
+        ],
+        "anno-pubblicazione":"2021",
+        "genere": "German Hip Hop, Hip-Hop/Rap"
+      },
+      {
+        "titolo": "Volume 1",
+        "casa": "Bluebell Records",
+        "artista": "Fabrizio De Andre",
+        "canzoni": [
+            {
+              "numero": "1",
+              "nome": "Bocca di rosa",
+              "durata":"3:09",
+              "featuring": null
+            },
+            {
+              "numero": "2",
+              "nome": "Via del Campo",
+              "durata":"2:33",
+              "featuring": null
+            } 
+        ],
+        "anno-pubblicazione":"1967",
+        "genere": "Folk music"
+      }
+
+  ]
+}

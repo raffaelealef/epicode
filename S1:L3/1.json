@@ -1,0 +1,31 @@
+{
+  "libri":[
+      {
+        "capitolo": "X",
+        "autore": [
+            {
+              "nome": "Autore A",
+              "indirizzo": "Indirizzo A"
+            },
+            {
+              "nome": "Autore B",
+              "indirizzo": "Indirizzo B"
+            }
+        ]
+      },
+      {
+        "capitolo": "Y",
+        "autore": [
+            {
+              "nome": "Autore C",
+              "indirizzo": "Indirizzo C"
+            },
+            {
+              "nome": "Autore D",
+              "indirizzo": "Indirizzo D"
+            }
+        ]
+      }
+
+  ]
+}

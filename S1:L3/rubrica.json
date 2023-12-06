@@ -1,0 +1,105 @@
+[
+    {
+      "title": "Mr",
+      "first_name": "Raffaele",
+      "middle_name": "Alessandro",
+      "last_name": "Fruncillo",
+      "mobile_phone": 0,
+      "email": "raffaelea@studente.com",
+      "bday": "21/07/00",
+      "social": 
+        {
+            "instagram": "raffaeleale",
+            "twitter": "raffaeleale"
+        },
+      "address": "Via Milano 1",
+      "favorite": 0,
+      "notes": "Studente di medicina"
+    },
+    {
+      "title": "Mr",
+      "first_name": "Andrea",
+      "middle_name": "",
+      "last_name": "Scudo",
+      "mobile_phone": "1111111111",
+      "email": "andreas@studente.com",
+      "bday": "01/01/99",
+      "social": 
+        {
+            "instagram": "andreas",
+            "twitter": null
+        },
+      "address": "Via Novara 1",
+      "favorite": 1,
+      "notes": "Studente di meccanica"
+    },
+    {
+      "title": "Mrs",
+      "first_name": "Chiara",
+      "middle_name": "",
+      "last_name": "Caruso",
+      "mobile_phone": "2222222222",
+      "email": "chiarac@studente.com",
+      "bday": "05/05/85",
+      "social": 
+        {
+            "instagram": "chiarac",
+            "twitter": "chiarac"
+        },
+    
+      "address": "Via Bologna 1",
+      "favorite": 1,
+      "notes": "Studentessa di biologia"
+    },
+    {
+      "title": "Mr ",
+      "first_name": "Andrea",
+      "middle_name": "",
+      "last_name": "Selis",
+      "mobile_phone": null,
+      "email": "andreasl@studente.com",
+      "bday": "04/09/98",
+      "social": 
+        {
+            "instagram": "andrease",
+            "twitter": null
+        },
+      "address": "Via Padova 1",
+      "favorite": 1,
+      "notes": "Studente di ing. informatica"
+    },
+    {
+      "title": "Mr",
+      "first_name": "Massimo",
+      "middle_name": "Thomas",
+      "last_name": "Gaydou",
+      "mobile_phone": "3333333331",
+      "email": "massimo@studente.com",
+      "bday": "28/02/99",
+      "social": 
+        {
+            "instagram": "thomasg",
+            "twitter": "thomasg"
+        },
+      "address": "Via Vercelli 1",
+      "favorite": 0,
+      "notes": "Vicino di casa"
+    },
+    {
+      "title": "Mrs",
+      "first_name": "Sara",
+      "middle_name": "",
+      "last_name": "Zucchi",
+      "mobile_phone": "9999999999",
+      "email": "saraz@hr.com",
+      "bday": "01/12/95",
+      "social": 
+        {
+            "instagram": null,
+            "twitter": null
+        },
+      "address": "Via Catania 1",
+      "favorite": 1,
+      "notes": "Hr manager"
+    }
+   ]

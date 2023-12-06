@@ -1,0 +1,41 @@
+{
+  "lettera":[
+      {
+        "mittente": {
+            "nome": "Alessandro",
+            "cognome": "Fruncillo",
+            "indirizzo": "Via Milano 1",
+            "citta": "Novara",
+            "provincia":"Novara",
+            "cap":"28100",
+            "nazione": "IT"
+        },
+        "destinatario": {
+            "nome": "Mario",
+            "cognome": "Rossi",
+            "indirizzo": "Via Roma 1",
+            "citta": "Roma",
+            "provincia":"Roma",
+            "cap":"00144",
+            "nazione": "IT"
+      },
+      "data_attuale":"06-12-2023",
+      "oggetto": "Avviso Manutenzione",
+      "testo": "BLA BLA BLA",
+      "firma": "X0ffg450300xdjjj039409",
+      "servizio_postale": {
+          "rag_sociale": "Poste Italiane SPA",
+          "piva": "00000000000",
+          "indirizzo": "Via Europa 190",
+          "citta": "Roma",
+          "provincia":"Roma",
+          "cap":"00144",
+          "nazione": "IT"
+      },
+      "tracking": "C009048550",
+      "conferma_ric": true
+
+      }
+
+  ]
+}
